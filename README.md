@@ -1,4 +1,7 @@
-# Scene Sample
+# Scene Sample (Deprecated)
+
+> [!IMPORTANT]
+> This sample is deprecated, reference the [Unreal-MRUtilityKitSample](https://github.com/oculus-samples/Unreal-MRUtilityKitSample) for any Scene related integration.
 
 This sample demonstrates the usage of [Scene in Unreal Engine](https://developer.oculus.com/documentation/unreal/unreal-scene-documentation/). Though its main feature is related to Scene, it also uses a quad-layer to render an in-game menu with higher quality, works with audio, and provides a [Passthrough stereo layer](https://developer.oculus.com/documentation/unreal/unreal-passthrough-overview/).
 
